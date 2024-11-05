@@ -207,7 +207,8 @@ You can use Telegram's API to monitor public channels and look for recurring mes
 
 
 telegram_monitor.py
-```
+
+```python
 from telethon.sync import TelegramClient
 
 # Replace these with your Telegram API credentials
