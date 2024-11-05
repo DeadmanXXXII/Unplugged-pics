@@ -19,3 +19,5 @@ Pictures for my presentation at osint event.
 - Tweepy
 ![Tweepy](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-144448.png)
 
+- Telethon
+![Telethon](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-160335.png)
