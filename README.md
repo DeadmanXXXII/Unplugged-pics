@@ -1,5 +1,6 @@
 # Unplugged-pics
 Pictures for my presentation at osint event.
+
 - Maltego and Nmap
 ![Maltego and Nmap](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-142422.png)
 
@@ -33,6 +34,16 @@ Pictures for my presentation at osint event.
 
 - The Harvester
 ![Harvester](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-162009.png)
+
+- Social mapper GreenWolf
+![Social mapper](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-162455.png)
+
+- Creepy
+![Creeps](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-162009.png)
+
+- Google Dorks
+![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-162009.png)
+
 
 
 
