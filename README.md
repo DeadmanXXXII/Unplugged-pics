@@ -5,3 +5,8 @@ Pictures for my presentation at osint event.
 
 - Nikto
 ![Nikto](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-142441.png)
+
+- LS5
+![LS5](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-143927.png)
+
+![Ls5](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-143914.png)
