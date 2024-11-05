@@ -14,5 +14,5 @@ Pictures for my presentation at osint event.
 - Exiftool P.H.
 ![Exiftool](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-144826.png)
 
-![Exiftool](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-144819)
+![Exiftool](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-144819.png)
 
