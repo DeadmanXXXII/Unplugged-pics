@@ -487,7 +487,7 @@ This script can be extended to process multiple files, automatically storing GPS
 - Lampost and box
 ![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/signal-2024-11-01-10-35-16-449-7.jpg)
 
-- Services hut doors postcode
+- Services hut doors street and town
 ![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/signal-2024-11-01-10-35-16-449-3.jpg)
 
 - Bus stop
