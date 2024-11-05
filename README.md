@@ -50,7 +50,7 @@ Pictures for my presentation at osint event.
 
 ---
 
-2. Shodan Script for Continuous IP Scanning and Geo-Location
+1. Shodan Script for Continuous IP Scanning and Geo-Location
 
 This Python script uses Shodan to scan for internet-connected devices within a specific geographic range and retrieve their location. It uses OpenCage Data to convert latitude and longitude to an 8-figure grid reference.
 
@@ -94,7 +94,7 @@ for result in results['matches']:
 
 ---
 
-3. Nmap Script for Continuous Scanning
+2. Nmap Script for Continuous Scanning
 
 This bash script uses Nmap to scan for devices within specific IP ranges, checking for open ports and potential vulnerabilities. The script can be run periodically via a cron job.
 
@@ -115,7 +115,7 @@ done
 
 ---
 
-4. IP Geolocation and Distance Calculation
+3. IP Geolocation and Distance Calculation
 
 This Python script retrieves the geolocation (latitude and longitude) of an IP address and calculates the distance from the target. It is useful for finding the proximity of devices to a specific location.
 
@@ -152,7 +152,7 @@ if ip_lat and ip_lon:
 ```
 
 
-9. Social Media Checkers
+4. Social Media Checkers
 
 For tracking social media profiles, messaging, and posts related to the identified IPs, we can use tools such as theHarvester, Social Mapper, and API access to platforms like Telegram or Twitter.
 
@@ -274,7 +274,7 @@ This script retrieves public tweets containing a specific keyword or hashtag rel
 
 ---
 
-2. Creepy: Geolocation Tracking
+5. Creepy: Geolocation Tracking
 
 Creepy is a tool that gathers location-related information from social networking platforms and image metadata (such as GPS coordinates).
 
@@ -331,7 +331,7 @@ for index, row in data.iterrows():
 
 ---
 
-3. Nmap: Network Mapping and Vulnerability Scanning
+6. Nmap: Network Mapping and Vulnerability Scanning
 
 Nmap can be used for network reconnaissance and vulnerability scanning, identifying open ports and services across devices.
 
@@ -378,7 +378,7 @@ for line in scan_results:
 
 ---
 
-4. Maltego: Advanced Network and Relationship Mapping
+7. Maltego: Advanced Network and Relationship Mapping
 
 Maltego is a powerful data mining and visualization tool that allows you to gather OSINT data from various sources and map relationships between people, organizations, and online entities.
 
@@ -436,7 +436,7 @@ This will allow you to build custom transforms and include them in your automate
 
 ---
 
-5. Metadata Extraction with ExifTool
+8. Metadata Extraction with ExifTool
 
 ExifTool extracts metadata from images and other media files, which often includes GPS data, camera settings, timestamps, and more.
 
