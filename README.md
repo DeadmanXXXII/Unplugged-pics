@@ -44,6 +44,8 @@ Pictures for my presentation at osint event.
 - Google Dorks
 ![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-162649.png)
 
+- Open CV
+![OoenCV](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-163639.png)
 
 
 
