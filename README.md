@@ -475,7 +475,10 @@ This script can be extended to process multiple files, automatically storing GPS
 
 ## Physical Landmarks and their metadata.
 
-- Google Dorks
-![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-162649.png)
+- Drain
+![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/signal-2024-11-01-10-35-16-449-1.jpg)
+
+- Drain serials
+![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/signal-2024-11-01-10-35-16-449-2.jpg)
 
 
