@@ -39,10 +39,10 @@ Pictures for my presentation at osint event.
 ![Social mapper](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-162455.png)
 
 - Creepy
-![Creeps](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-162009.png)
+![Creeps](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-162543.png)
 
 - Google Dorks
-![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-162009.png)
+![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-162649.png)
 
 
 
