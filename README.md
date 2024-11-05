@@ -473,7 +473,7 @@ This script can be extended to process multiple files, automatically storing GPS
 
 ---
 
-## Physical Landmarks and their metadata.
+## Physical Landmarks that aren't so obvious and their physical metadata.
 
 - Drain
 ![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/signal-2024-11-01-10-35-16-449-1.jpg)
@@ -487,17 +487,19 @@ This script can be extended to process multiple files, automatically storing GPS
 - Lampost and box
 ![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/signal-2024-11-01-10-35-16-449-7.jpg)
 
-- Lampost and box
+- Services hut doors postcode
 ![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/signal-2024-11-01-10-35-16-449-3.jpg)
 
-- Lampost and box
+- Bus stop
 ![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/signal-2024-11-01-10-35-16-449-4.jpg)
 
-- Lampost and box
+- P.O. Box postcode sticker
 ![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/signal-2024-11-01-10-35-16-449-9.jpg)
 
-- Lampost and box
+- Signage
 ![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/signal-2024-11-01-10-35-16-449.jpg)
 
-- Lampost and box
+- PostBox with QR location
 ![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/signal-2024-11-01-10-35-16-449-5.jpg)
+
+In society we have a habit of serial numbering everything. 
