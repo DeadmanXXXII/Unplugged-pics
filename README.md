@@ -24,3 +24,14 @@ Pictures for my presentation at osint event.
 
 - Shodan
 ![Shodan](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-160649.png)
+
+- Bind9
+![Bind9](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-160922.png)
+
+- Geopy
+![Geopy](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-161157.png)
+
+
+
+
+
