@@ -12,7 +12,7 @@ Pictures for my presentation at osint event.
 ![Ls5](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-143914.png)
 
 - Exiftool P.H.
-![Exiftool](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-143927.png)
+![Exiftool](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-144826.png)
 
-![Exiftool](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/)
+![Exiftool](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-144819)
 
