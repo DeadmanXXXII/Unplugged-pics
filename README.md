@@ -481,4 +481,10 @@ This script can be extended to process multiple files, automatically storing GPS
 - Drain serials
 ![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/signal-2024-11-01-10-35-16-449-2.jpg)
 
+- Lamppost
+![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/signal-2024-11-01-10-35-16-449-10.jpg)
+
+- Lampost and box
+![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/signal-2024-11-01-10-35-16-449-7.jpg)
+
 
