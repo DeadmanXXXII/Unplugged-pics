@@ -21,3 +21,6 @@ Pictures for my presentation at osint event.
 
 - Telethon
 ![Telethon](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-160335.png)
+
+- Shodan
+![Shodan](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/Screenshot_20241105-160649.png)
