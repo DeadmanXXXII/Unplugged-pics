@@ -487,4 +487,17 @@ This script can be extended to process multiple files, automatically storing GPS
 - Lampost and box
 ![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/signal-2024-11-01-10-35-16-449-7.jpg)
 
+- Lampost and box
+![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/signal-2024-11-01-10-35-16-449-3.jpg)
 
+- Lampost and box
+![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/signal-2024-11-01-10-35-16-449-4.jpg)
+
+- Lampost and box
+![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/signal-2024-11-01-10-35-16-449-9.jpg)
+
+- Lampost and box
+![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/signal-2024-11-01-10-35-16-449.jpg)
+
+- Lampost and box
+![Dorks](https://raw.githubusercontent.com/DeadmanXXXII/Unplugged-pics/main/signal-2024-11-01-10-35-16-449-5.jpg)
